@@ -1,0 +1,22 @@
+.carousel-class{ width: 100%; float: left; padding: 100px 0;}
+.carousel-class .carousel-box{ width: 100%; float: left;}
+.carousel-class .carousel-box img{ width: 100%; opacity: 0.5; cursor: pointer; user-select: none;}
+.carousel-class .center { z-index: 2;} 
+.carousel-class .center .carousel-box{width: 120%; margin-left: -10%; margin-top: -50px; box-shadow: 10px 10px 30px rgba(0,0,0,0.15);}
+.carousel-class .center .carousel-box img{opacity: 1;}
+.carousel-class .owl-item{padding:30px 0; }
+.carousel-class .owl-dots{ display: block;}
+.owl-prev {
+    width: 2%;
+    position: absolute;
+    top: 0;
+	  left: 96%;
+}
+
+.owl-next {
+    width: 2%;
+	top: 0;
+    background: rgba(255, 255, 255, 0.3);
+    position: absolute;
+    left: 100%;
+}
