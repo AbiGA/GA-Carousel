@@ -1,5 +1,6 @@
 # GA-Carousel
 Image Carousel built using owl carousel. GA-Carousel is highly customisable and can be used to any purpose.
+![GA-Carousel screenshot](https://github.com/AbiGA/GA-Carousel/blob/master/screenshots/carousel.png)
 
 
 
